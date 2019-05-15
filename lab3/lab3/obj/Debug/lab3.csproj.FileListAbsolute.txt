@@ -1,0 +1,36 @@
+E:\FallSemester2018\Net Client Dev\lab3\lab3\bin\Debug\lab3.exe.config
+E:\FallSemester2018\Net Client Dev\lab3\lab3\bin\Debug\lab3.exe
+E:\FallSemester2018\Net Client Dev\lab3\lab3\bin\Debug\lab3.pdb
+E:\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+E:\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.frmStudentScores.resources
+E:\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+E:\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.Cache
+E:\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.exe
+E:\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.pdb
+D:\FallSemester2018\Net Client Dev\lab3\lab3\bin\Debug\lab3.exe.config
+D:\FallSemester2018\Net Client Dev\lab3\lab3\bin\Debug\lab3.exe
+D:\FallSemester2018\Net Client Dev\lab3\lab3\bin\Debug\lab3.pdb
+D:\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.frmAddNewStudent.resources
+D:\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.frmNewScore.resources
+D:\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.frmStudentScores.resources
+D:\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+D:\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.frmUpdateScore.resources
+D:\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.frmUpdateStudentScores.resources
+D:\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+D:\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.exe
+D:\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\twodu\OneDrive\Desktop\School 2018\FallSemester2018\Net Client Dev\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\twodu\OneDrive\Desktop\School 2018\FallSemester2018\Net Client Dev\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\twodu\OneDrive\Desktop\School 2018\FallSemester2018\Net Client Dev\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\twodu\OneDrive\Desktop\School 2018\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\Users\twodu\OneDrive\Desktop\School 2018\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.frmAddNewStudent.resources
+C:\Users\twodu\OneDrive\Desktop\School 2018\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.frmNewScore.resources
+C:\Users\twodu\OneDrive\Desktop\School 2018\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.frmStudentScores.resources
+C:\Users\twodu\OneDrive\Desktop\School 2018\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\twodu\OneDrive\Desktop\School 2018\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.frmUpdateScore.resources
+C:\Users\twodu\OneDrive\Desktop\School 2018\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.frmUpdateStudentScores.resources
+C:\Users\twodu\OneDrive\Desktop\School 2018\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\twodu\OneDrive\Desktop\School 2018\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\twodu\OneDrive\Desktop\School 2018\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\twodu\OneDrive\Desktop\School 2018\FallSemester2018\Net Client Dev\lab3\lab3\obj\Debug\lab3.pdb
